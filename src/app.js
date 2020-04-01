@@ -36,3 +36,4 @@ class App extends Stepan.Component {
 }
 
 new App(document.getElementById('todoapp')).render(todos)
+// new App("document.getElementById('todoapp')").render(todos)
